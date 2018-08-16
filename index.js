@@ -25,4 +25,4 @@ function sayHiToGrandma(string) {
   else if (string === "I love you, Grandma."){
     console.log("I love you, too.")
   }
-}
+
